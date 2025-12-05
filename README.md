@@ -266,11 +266,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to open a pull request or raise an issue.
 
 
----
-
-📜 License
-
-This project is licensed under the MIT License.
 
 
 ---
